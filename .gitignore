@@ -82,3 +82,7 @@ logs
 # Sensitive data
 android/gradle.properties
 ios/fastlane/.env
+
+# GitHub Actions workflows (requires manual setup due to permissions)
+# See CI_CD_WORKFLOWS.md for workflow configurations
+.github/
